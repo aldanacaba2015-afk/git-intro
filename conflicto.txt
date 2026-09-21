@@ -1,3 +1,1 @@
-
-Linea de colision B
 Linea de colision A
